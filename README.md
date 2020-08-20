@@ -13,6 +13,12 @@ Passing Score | 8/10
 
 https://drive.google.com/drive/u/2/folders/1Iwp3SEApr-M1BEl3SD6E_nbhbMxb4w6V
 
+### How to name final exam?
+
+Eg: NguyenVanA.docx 
+
+*please don't inject backdoor into this file ;)*
+
 ## Questions
 
 ### Question 01
